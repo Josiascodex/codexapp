@@ -1,0 +1,441 @@
+{
+  "schedule": [
+    {
+      "date": "2047-05-17",
+      "groups": [
+        {
+          "time": "8:00 am",
+          "sessions": [
+            {
+              "name": "Nome do Projeto",
+              "timeStart": "8:00 am",
+              "timeEnd": "9:00 am",
+              "location": "Vitorino",
+              "tracks": ["Food"],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "time": "9:15 am",
+          "sessions": [
+            {
+              "name": "Nome do Projeto",
+              "location": "Vitorino",
+              "description": "Teste do aplicativo, lugar destinado a descrição do projeto. Lorem ipsum sollicitudin magna adipiscing sociosqu varius ullamcorper nunc neque in malesuada neque dictumst, porttitor sapien suspendisse nisi ut felis hendrerit ad nostra donec massa morbi. hac hendrerit vestibulum aliquam quisque ultricies integer, ut sapien convallis lectus curabitur conubia, blandit suspendisse proin volutpat felis.",
+              "speakerNames": ["Tarcilio Tartaruga"],
+              "timeStart": "9:30 am",
+              "timeEnd": "9:45 am",
+              "tracks": ["Ionic"],
+              "id": "2"
+            },
+            {
+              "name": "Nome do Projeto",
+              "location": "Vitorino",
+              "description": "Teste do aplicativo, lugar destinado a descrição do projeto. Lorem ipsum sollicitudin magna adipiscing sociosqu varius ullamcorper nunc neque in malesuada neque dictumst, porttitor sapien suspendisse nisi ut felis hendrerit ad nostra donec massa morbi. hac hendrerit vestibulum aliquam quisque ultricies integer, ut sapien convallis lectus curabitur conubia, blandit suspendisse proin volutpat felis.",
+              "speakerNames": ["Rafael Coelho"],
+              "timeStart": "9:45 am",
+              "timeEnd": "10:00 am",
+              "tracks": ["Tooling"],
+              "id": "3"
+            },
+            {
+              "name": "Nome do Projeto",
+              "location": "Vitorino",
+              "description": "Teste do aplicativo, lugar destinado a descrição do projeto. Lorem ipsum sollicitudin magna adipiscing sociosqu varius ullamcorper nunc neque in malesuada neque dictumst, porttitor sapien suspendisse nisi ut felis hendrerit ad nostra donec massa morbi. hac hendrerit vestibulum aliquam quisque ultricies integer, ut sapien convallis lectus curabitur conubia, blandit suspendisse proin volutpat felis.",
+              "speakerNames": ["Elias Elefante"],
+              "timeStart": "9:15 am",
+              "timeEnd": "9:30 am",
+              "tracks": ["Ionic"],
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "time": "10:00 am",
+          "sessions": [
+            {
+              "name": "Nome do Projeto",
+              "location": "Vitorino",
+              "description": "Teste do aplicativo, lugar destinado a descrição do projeto. Lorem ipsum sollicitudin magna adipiscing sociosqu varius ullamcorper nunc neque in malesuada neque dictumst, porttitor sapien suspendisse nisi ut felis hendrerit ad nostra donec massa morbi. hac hendrerit vestibulum aliquam quisque ultricies integer, ut sapien convallis lectus curabitur conubia, blandit suspendisse proin volutpat felis.",
+              "speakerNames": ["Alice Águia", "Leonel Leão"],
+              "timeStart": "10:00 am",
+              "timeEnd": "10:15 am",
+              "tracks": ["Ionic"],
+              "id": "5"
+            },
+            {
+              "name": "Nome do Projeto",
+              "location": "Vitorino",
+              "description": "Teste do aplicativo, lugar destinado a descrição do projeto. Lorem ipsum sollicitudin magna adipiscing sociosqu varius ullamcorper nunc neque in malesuada neque dictumst, porttitor sapien suspendisse nisi ut felis hendrerit ad nostra donec massa morbi. hac hendrerit vestibulum aliquam quisque ultricies integer, ut sapien convallis lectus curabitur conubia, blandit suspendisse proin volutpat felis.",
+              "speakerNames": ["Rafael Coelho"],
+              "timeStart": "10:15 am",
+              "timeEnd": "10:30 am",
+              "tracks": ["Angular"],
+              "id": "6"
+            },
+            {
+              "name": "Nome do Projeto",
+              "location": "Vitorino",
+              "description": "Teste do aplicativo, lugar destinado a descrição do projeto. Lorem ipsum sollicitudin magna adipiscing sociosqu varius ullamcorper nunc neque in malesuada neque dictumst, porttitor sapien suspendisse nisi ut felis hendrerit ad nostra donec massa morbi. hac hendrerit vestibulum aliquam quisque ultricies integer, ut sapien convallis lectus curabitur conubia, blandit suspendisse proin volutpat felis.",
+              "speakerNames": ["Isabella Iguana", "Alice Águia"],
+              "timeStart": "10:15 am",
+              "timeEnd": "10:30 am",
+              "tracks": ["Design"],
+              "id": "7"
+            },
+            {
+              "name": "Nome do Projeto",
+              "location": "Vitorino",
+              "description": "Teste do aplicativo, lugar destinado a descrição do projeto. Lorem ipsum sollicitudin magna adipiscing sociosqu varius ullamcorper nunc neque in malesuada neque dictumst, porttitor sapien suspendisse nisi ut felis hendrerit ad nostra donec massa morbi. hac hendrerit vestibulum aliquam quisque ultricies integer, ut sapien convallis lectus curabitur conubia, blandit suspendisse proin volutpat felis.",
+              "speakerNames": ["Maria Cheetah"],
+              "timeStart": "10:45 am",
+              "timeEnd": "11:00 am",
+              "tracks": ["Services"],
+              "id": "8"
+            }
+          ]
+        },
+        {
+          "time": "11:00 am",
+          "sessions": [
+            {
+              "name": "Nome do Projeto",
+              "location": "Vitorino",
+              "description": "Teste do aplicativo, lugar destinado a descrição do projeto. Lorem ipsum sollicitudin magna adipiscing sociosqu varius ullamcorper nunc neque in malesuada neque dictumst, porttitor sapien suspendisse nisi ut felis hendrerit ad nostra donec massa morbi. hac hendrerit vestibulum aliquam quisque ultricies integer, ut sapien convallis lectus curabitur conubia, blandit suspendisse proin volutpat felis.",
+              "speakerNames": ["Giovana Gata", "Leonel Leão"],
+              "timeStart": "11:00 am",
+              "timeEnd": "11:45 am",
+              "tracks": ["Workshop"],
+              "id": "9"
+            },
+            {
+              "name": "Projeto banco de dados",
+              "location": "Vitorino",
+              "description": "Teste do aplicativo, lugar destinado a descrição do projeto. Lorem ipsum sollicitudin magna adipiscing sociosqu varius ullamcorper nunc neque in malesuada neque dictumst, porttitor sapien suspendisse nisi ut felis hendrerit ad nostra donec massa morbi. hac hendrerit vestibulum aliquam quisque ultricies integer, ut sapien convallis lectus curabitur conubia, blandit suspendisse proin volutpat felis.",
+              "speakerNames": ["Leonel Leão", "Gabriel Girafa"],
+              "timeStart": "11:30 am",
+              "timeEnd": "11:50 am",
+              "tracks": ["Communication"],
+              "id": "10"
+            },
+            {
+              "name": "Programa e c#",
+              "location": "Vitorino",
+              "description": "Teste do aplicativo, lugar destinado a descrição do projeto. Lorem ipsum sollicitudin magna adipiscing sociosqu varius ullamcorper nunc neque in malesuada neque dictumst, porttitor sapien suspendisse nisi ut felis hendrerit ad nostra donec massa morbi. hac hendrerit vestibulum aliquam quisque ultricies integer, ut sapien convallis lectus curabitur conubia, blandit suspendisse proin volutpat felis.",
+              "speakerNames": ["Rafael Coelho", "Alice Águia"],
+              "timeStart": "11:30 am",
+              "timeEnd": "12:00 pm",
+              "tracks": ["Navigation"],
+              "id": "11"
+            }
+          ]
+        },
+        {
+          "time": "12:00 pm",
+          "sessions": [
+            {
+              "name": "Webservice",
+              "location": "Vitorino",
+              "description": "Teste do aplicativo, lugar destinado a descrição do projeto. Lorem ipsum sollicitudin magna adipiscing sociosqu varius ullamcorper nunc neque in malesuada neque dictumst, porttitor sapien suspendisse nisi ut felis hendrerit ad nostra donec massa morbi. hac hendrerit vestibulum aliquam quisque ultricies integer, ut sapien convallis lectus curabitur conubia, blandit suspendisse proin volutpat felis.",
+              "timeStart": "12:00 pm",
+              "timeEnd": "1:00 pm",
+              "tracks": ["Food"],
+              "id": "12"
+            }
+          ]
+        },
+        {
+          "time": "1:00 pm",
+          "sessions": [
+            {
+              "name": "Aplicativo Angular",
+              "location": "Vitorino",
+              "description": "Teste do aplicativo, lugar destinado a descrição do projeto. Lorem ipsum sollicitudin magna adipiscing sociosqu varius ullamcorper nunc neque in malesuada neque dictumst, porttitor sapien suspendisse nisi ut felis hendrerit ad nostra donec massa morbi. hac hendrerit vestibulum aliquam quisque ultricies integer, ut sapien convallis lectus curabitur conubia, blandit suspendisse proin volutpat felis.",
+              "speakerNames": ["Carlos Cachorro"],
+              "timeStart": "1:00 pm",
+              "timeEnd": "1:15 pm",
+              "tracks": ["Communication"],
+              "id": "13"
+            },
+            {
+              "name": "Aplicativo ionic",
+              "location": "Vitorino",
+              "description": "Teste do aplicativo, lugar destinado a descrição do projeto. Lorem ipsum sollicitudin magna adipiscing sociosqu varius ullamcorper nunc neque in malesuada neque dictumst, porttitor sapien suspendisse nisi ut felis hendrerit ad nostra donec massa morbi. hac hendrerit vestibulum aliquam quisque ultricies integer, ut sapien convallis lectus curabitur conubia, blandit suspendisse proin volutpat felis.",
+              "speakerNames": ["Gabriel Girafa"],
+              "timeStart": "1:15 pm",
+              "timeEnd": "1:30 pm",
+              "tracks": ["Communication"],
+              "id": "14"
+            },
+            {
+              "name": "Nome do Projeto",
+              "location": "Vitorino",
+              "description": "Teste do aplicativo, lugar destinado a descrição do projeto. Lorem ipsum sollicitudin magna adipiscing sociosqu varius ullamcorper nunc neque in malesuada neque dictumst, porttitor sapien suspendisse nisi ut felis hendrerit ad nostra donec massa morbi. hac hendrerit vestibulum aliquam quisque ultricies integer, ut sapien convallis lectus curabitur conubia, blandit suspendisse proin volutpat felis.",
+              "speakerNames": ["Mateus Rato", "João Urso"],
+              "timeStart": "1:30 pm",
+              "timeEnd": "2:00 pm",
+              "tracks": ["Services"],
+              "id": "15"
+            }
+          ]
+        },
+        {
+          "time": "2:00 pm",
+          "sessions": [
+            {
+              "name": "Nome do Projeto",
+              "location": "São paulo",
+              "description": "Teste do aplicativo, lugar destinado a descrição do projeto. Lorem ipsum sollicitudin magna adipiscing sociosqu varius ullamcorper nunc neque in malesuada neque dictumst, porttitor sapien suspendisse nisi ut felis hendrerit ad nostra donec massa morbi. hac hendrerit vestibulum aliquam quisque ultricies integer, ut sapien convallis lectus curabitur conubia, blandit suspendisse proin volutpat felis.",
+              "speakerNames": ["João Urso", "Maria Cheetah"],
+              "timeStart": "2:00 pm",
+              "timeEnd": "2:30 pm",
+              "tracks": ["Services"],
+              "id": "16"
+            },
+            {
+              "name": "Nome do Projeto",
+              "location": "Pato branco",
+              "description": "Teste do aplicativo, lugar destinado a descrição do projeto. Lorem ipsum sollicitudin magna adipiscing sociosqu varius ullamcorper nunc neque in malesuada neque dictumst, porttitor sapien suspendisse nisi ut felis hendrerit ad nostra donec massa morbi. hac hendrerit vestibulum aliquam quisque ultricies integer, ut sapien convallis lectus curabitur conubia, blandit suspendisse proin volutpat felis.",
+              "speakerNames": ["Mario Pato"],
+              "timeStart": "2:30 pm",
+              "timeEnd": "2:45 pm",
+              "tracks": ["Documentation"],
+              "id": "17"
+            },
+            {
+              "name": "Nome do Projeto",
+              "location": "Curitiva",
+              "description": "Teste do aplicativo, lugar destinado a descrição do projeto. Lorem ipsum sollicitudin magna adipiscing sociosqu varius ullamcorper nunc neque in malesuada neque dictumst, porttitor sapien suspendisse nisi ut felis hendrerit ad nostra donec massa morbi. hac hendrerit vestibulum aliquam quisque ultricies integer, ut sapien convallis lectus curabitur conubia, blandit suspendisse proin volutpat felis.",
+              "speakerNames": ["Isabella Iguana", "Elias Elefante"],
+              "timeStart": "2:45 pm",
+              "timeEnd": "3:00 pm",
+              "tracks": ["Design"],
+              "id": "18"
+            }
+          ]
+        },
+        {
+          "time": "3:00",
+          "sessions": [
+            {
+              "name": "Nome do Projeto",
+              "location": "Vitorino",
+              "description": "Teste do aplicativo, lugar destinado a descrição do projeto. Lorem ipsum sollicitudin magna adipiscing sociosqu varius ullamcorper nunc neque in malesuada neque dictumst, porttitor sapien suspendisse nisi ut felis hendrerit ad nostra donec massa morbi. hac hendrerit vestibulum aliquam quisque ultricies integer, ut sapien convallis lectus curabitur conubia, blandit suspendisse proin volutpat felis.",
+              "speakerNames": ["Tarcilio Tartaruga"],
+              "timeStart": "3:00 pm",
+              "timeEnd": "3:30 pm",
+              "tracks": ["Angular"],
+              "id": "19"
+            },
+            {
+              "name": "Aplicação ",
+              "location": "São Paulo",
+              "description": "Teste do aplicativo, lugar destinado a descrição do projeto. Lorem ipsum sollicitudin magna adipiscing sociosqu varius ullamcorper nunc neque in malesuada neque dictumst, porttitor sapien suspendisse nisi ut felis hendrerit ad nostra donec massa morbi. hac hendrerit vestibulum aliquam quisque ultricies integer, ut sapien convallis lectus curabitur conubia, blandit suspendisse proin volutpat felis.",
+              "speakerNames": ["Rafael Coelho"],
+              "timeStart": "3:30 pm",
+              "timeEnd": "3:45 pm",
+              "tracks": ["Navigation"],
+              "id": "20"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "speakers": [
+    {
+      "name": "João Urso",
+      "profilePic": "/assets/img/speakers/bear.jpg",
+      "twitter": "ionicframework",
+      "about": "João é um urso.",
+      "location": "Pato branco",
+      "email": "burt@email.com",
+      "phone": "+1-541-754-3010",
+      "id": "1"
+    },
+    {
+      "name": "Maria Cheetah",
+      "profilePic": "/assets/img/speakers/cheetah.jpg",
+      "twitter": "MariaCheetah",
+      "about": "Maria é um animal.",
+      "location": "Pato Branco",
+      "email": "charlie@email.com",
+      "phone": "+1-541-754-3010",
+      "id": "2"
+    },
+    {
+      "name": "Mario Pato",
+      "profilePic": "/assets/img/speakers/duck.jpg",
+      "twitter": "ionicframework",
+      "about": "Mario é um pato.",
+      "location": "Pato branco",
+      "email": "donald@email.com",
+      "phone": "+1-541-754-3010",
+      "id": "3"
+    },
+    {
+      "name": "Alice Águia",
+      "profilePic": "/assets/img/speakers/eagle.jpg",
+      "twitter": "ionicframework",
+      "about": "Eva é uma águia.",
+      "location": "Ceu Azul",
+      "email": "Alice@sky.com",
+      "phone": "+1-541-754-3010",
+      "id": "4"
+    },
+    {
+      "name": "Elias Elefante",
+      "profilePic": "/assets/img/speakers/elephant.jpg",
+      "twitter": "ionicframework",
+      "about": "Elias é um elefante.",
+      "location": "Safari",
+      "email": "Elias@congo.com",
+      "phone": "+1-541-754-3010",
+      "id": "5"
+    },
+    {
+      "name": "Gabriel Girafa",
+      "profilePic": "/assets/img/speakers/giraffe.jpg",
+      "twitter": "ionicframework",
+      "about": "Gabriel é uma Girafa.",
+      "location": "Zoológico de Vitorino",
+      "email": "gabriel@saudadedaafrica.com",
+      "phone": "+1-541-754-3010",
+      "id": "6"
+    },
+    {
+      "name": "Isabella Iguana",
+      "profilePic": "/assets/img/speakers/iguana.jpg",
+      "twitter": "ionicframework",
+      "about": "Isabella é uma iguana.",
+      "location": "Amazonas",
+      "email": "isabella@exemplo.com",
+      "phone": "+1-541-754-3010",
+      "id": "7"
+    },
+    {
+      "name": "Giovana Gata",
+      "profilePic": "/assets/img/speakers/kitten.jpg",
+      "twitter": "ionicframework",
+      "about": "Giovana é uma gata.",
+      "location": "Dois vizinhos",
+      "email": "Giovanacat@email.com",
+      "phone": "+1-541-754-3010",
+      "id": "8"
+    },
+    {
+      "name": "Leonel Leão",
+      "profilePic": "/assets/img/speakers/lion.jpg",
+      "twitter": "ionicframework",
+      "about": "Leonel é um leão.",
+      "location": "Africa do sul",
+      "email": "leonel@exemplo.com",
+      "phone": "+1-541-754-3010",
+      "id": "9"
+    },
+    {
+      "name": "Rafael Rato",
+      "profilePic": "/assets/img/speakers/mouse.jpg",
+      "twitter": "ionicframework",
+      "about": "Rafael rato.",
+      "location": "Av tupi",
+      "email": "Ratao@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "10"
+    },
+    {
+      "name": "Carlos Cachorro",
+      "profilePic": "/assets/img/speakers/puppy.jpg",
+      "twitter": "ionicframework",
+      "about": "Carlos é um cachorrão.",
+      "location": "Localização",
+      "email": "Carlos@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "11"
+    },
+    {
+      "name": "Rafael Coelho",
+      "profilePic": "/assets/img/speakers/rabbit.jpg",
+      "twitter": "ionicframework",
+      "about": "Rafael é um coelho.",
+      "location": "Localização",
+      "email": "rafa1990@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "12"
+    },
+    {
+      "name": "Tarcilio Tartaruga",
+      "profilePic": "/assets/img/speakers/turtle.jpg",
+      "twitter": "ionicframework",
+      "about": "Tarcilio é uma tartaruga.",
+      "location": "Localização",
+      "email": "tarcilio@nuncachega.com",
+      "phone": "+1-541-754-3010",
+      "id": "13"
+    }
+  ],
+
+  "map": [
+    {
+      "name": "Monona Terrace Convention Center",
+      "lat": 43.071584,
+      "lng": -89.38012,
+      "center": true
+    },
+    {
+      "name": "Ionic HQ",
+      "lat": 43.074395,
+      "lng": -89.381056
+    },
+    {
+      "name": "Afterparty - Brocach Irish Pub",
+      "lat": 43.07336,
+      "lng": -89.38335
+    }
+  ],
+
+  "tracks": [
+    {
+      "name": "Angular",
+      "icon": "logo-angular"
+    },
+    {
+      "name": "Documentation",
+      "icon": "document"
+    },
+    {
+      "name": "Food",
+      "icon": "restaurant"
+    },
+    {
+      "name": "Ionic",
+      "icon": "logo-ionic"
+    },
+    {
+      "name": "Tooling",
+      "icon": "hammer"
+    },
+    {
+      "name": "Design",
+      "icon": "color-palette"
+    },
+    {
+      "name": "Services",
+      "icon": "cog"
+    },
+    {
+      "name": "Workshop",
+      "icon": "construct"
+    },
+    {
+      "name": "Communication",
+      "icon": "call"
+    },
+    {
+      "name": "Navigation",
+      "icon": "compass"
+    }
+  ]
+}
